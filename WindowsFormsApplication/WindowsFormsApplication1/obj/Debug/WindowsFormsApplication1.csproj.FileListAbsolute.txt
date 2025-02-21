@@ -1,0 +1,146 @@
+c:\users\sistemas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\sistemas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\sistemas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\sistemas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\sistemas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\sistemas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\sistemas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\sistemas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\sistemas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\REDES\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\REDES\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\REDES\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jjsal\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jjsal\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jjsal\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jjsal\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\jjsal\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjsal\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jjsal\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jjsal\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\jjsal\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jjsal\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jjsal\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sistemas\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Sistemas\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Sistemas\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sistemas\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Sistemas\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Sistemas\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sistemas\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sistemas\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Abraham\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Abraham\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Abraham\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Abraham\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Abraham\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abraham\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Abraham\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Abraham\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Abraham\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Abraham\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Abraham\Desktop\WindowsFormsApplicationMIO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Abraham\Desktop\WindowsFormsApplicationMIO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Abraham\Desktop\WindowsFormsApplicationMIO\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Abraham\Desktop\WindowsFormsApplicationMIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Abraham\Desktop\WindowsFormsApplicationMIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abraham\Desktop\WindowsFormsApplicationMIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Abraham\Desktop\WindowsFormsApplicationMIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Abraham\Desktop\WindowsFormsApplicationMIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Abraham\Desktop\WindowsFormsApplicationMIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\Desktop\WindowsFormsApplicationMIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Abraham\Desktop\WindowsFormsApplicationMIO\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\mijha\Desktop\REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\mijha\Desktop\REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\mijha\Desktop\REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\mijha\Desktop\REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\mijha\Desktop\REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\mijha\Desktop\REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\mijha\Desktop\REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\mijha\Desktop\REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mijha\Desktop\REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jjsal\Downloads\este si\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jjsal\Downloads\este si\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jjsal\Downloads\este si\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jjsal\Downloads\este si\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jjsal\Downloads\este si\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jjsal\Downloads\este si\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jjsal\Downloads\este si\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\jjsal\Downloads\este si\aaaaaaaaaa\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\jjsal\Downloads\este si\aaaaaaaaaa\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjsal\Downloads\este si\aaaaaaaaaa\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jjsal\Downloads\este si\aaaaaaaaaa\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\jjsal\Downloads\este si\aaaaaaaaaa\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jjsal\Downloads\este si\aaaaaaaaaa\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\jjsal\Downloads\este si\aaaaaaaaaa\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jjsal\Downloads\este si\aaaaaaaaaa\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jjsal\Downloads\este si\aaaaaaaaaa\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jjsal\Downloads\este si\aaaaaaaaaa\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jjsal\Downloads\este si\aaaaaaaaaa\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jjsal\Downloads\este si\aaaaaaaaaa\redesActualizado\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\usuario\Downloads\REDES Y COMUNICACIONES I - VERO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\usuario\Downloads\REDES Y COMUNICACIONES I - VERO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\usuario\Downloads\REDES Y COMUNICACIONES I - VERO\REDES Y COMUNICACIONES I\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

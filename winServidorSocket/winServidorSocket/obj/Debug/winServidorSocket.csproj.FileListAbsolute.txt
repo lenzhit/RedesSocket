@@ -1,0 +1,136 @@
+F:\REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe.config
+F:\REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe
+F:\REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.pdb
+F:\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csprojResolveAssemblyReference.cache
+F:\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Form1.resources
+F:\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Properties.Resources.resources
+F:\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.GenerateResource.Cache
+F:\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.exe
+F:\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.pdb
+C:\Users\jjsal\Downloads\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe.config
+C:\Users\jjsal\Downloads\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe
+C:\Users\jjsal\Downloads\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.pdb
+C:\Users\jjsal\Downloads\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.AssemblyReference.cache
+C:\Users\jjsal\Downloads\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjsal\Downloads\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Form1.resources
+C:\Users\jjsal\Downloads\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Properties.Resources.resources
+C:\Users\jjsal\Downloads\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.GenerateResource.cache
+C:\Users\jjsal\Downloads\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.CoreCompileInputs.cache
+C:\Users\jjsal\Downloads\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.exe
+C:\Users\jjsal\Downloads\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.pdb
+C:\Users\Sistemas\Downloads\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe.config
+C:\Users\Sistemas\Downloads\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.exe
+C:\Users\Sistemas\Downloads\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.pdb
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 14\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe.config
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 14\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.exe
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 14\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.pdb
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 14\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 14\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Form1.resources
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 14\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Properties.Resources.resources
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 14\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 14\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 14\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.pdb
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 14\winServidorSocket\winServidorSocket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\Documents\VERONICA\UNIVERSIDAD\7 SEPTIMO CICLO\REDES Y COMUNICACIONES I\SEMANA 14\winServidorSocket\winServidorSocket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abraham\Desktop\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe.config
+C:\Users\Abraham\Desktop\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe
+C:\Users\Abraham\Desktop\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.pdb
+C:\Users\Abraham\Desktop\winServidorSocket\winServidorSocket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abraham\Desktop\winServidorSocket\winServidorSocket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Abraham\Desktop\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.AssemblyReference.cache
+C:\Users\Abraham\Desktop\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abraham\Desktop\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Form1.resources
+C:\Users\Abraham\Desktop\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Properties.Resources.resources
+C:\Users\Abraham\Desktop\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.GenerateResource.cache
+C:\Users\Abraham\Desktop\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\Desktop\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.CopyComplete
+C:\Users\Abraham\Desktop\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.exe
+C:\Users\Abraham\Desktop\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.pdb
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe.config
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.pdb
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\winServidorSocket\winServidorSocket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\winServidorSocket\winServidorSocket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.AssemblyReference.cache
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Form1.resources
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Properties.Resources.resources
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.GenerateResource.cache
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.CoreCompileInputs.cache
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.CopyComplete
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.exe
+C:\Users\jjsal\Downloads\21-07_Sockets\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.pdb
+C:\Users\mijha\Desktop\REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe.config
+C:\Users\mijha\Desktop\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.exe
+C:\Users\mijha\Desktop\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.pdb
+C:\Users\mijha\Desktop\REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe
+C:\Users\mijha\Desktop\REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.pdb
+C:\Users\mijha\Desktop\REDES\winServidorSocket\winServidorSocket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mijha\Desktop\REDES\winServidorSocket\winServidorSocket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mijha\Desktop\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csprojResolveAssemblyReference.cache
+C:\Users\mijha\Desktop\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Form1.resources
+C:\Users\mijha\Desktop\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Properties.Resources.resources
+C:\Users\mijha\Desktop\REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.GenerateResource.Cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.AssemblyReference.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Form1.resources
+C:\Users\jjsal\Downloads\este si\redesActualizado\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Properties.Resources.resources
+C:\Users\jjsal\Downloads\este si\redesActualizado\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.GenerateResource.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.CoreCompileInputs.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.exe
+C:\Users\jjsal\Downloads\este si\redesActualizado\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.pdb
+C:\Users\jjsal\Downloads\este si\redesActualizado\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe.config
+C:\Users\jjsal\Downloads\este si\redesActualizado\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe
+C:\Users\jjsal\Downloads\este si\redesActualizado\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.pdb
+C:\Users\jjsal\Downloads\este si\redesActualizado\winServidorSocket\winServidorSocket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jjsal\Downloads\este si\redesActualizado\winServidorSocket\winServidorSocket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jjsal\Downloads\este si\redesActualizado\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.CopyComplete
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe.config
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.pdb
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\winServidorSocket\winServidorSocket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\winServidorSocket\winServidorSocket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.AssemblyReference.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.SuggestedBindingRedirects.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Form1.resources
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Properties.Resources.resources
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.GenerateResource.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.CoreCompileInputs.cache
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.CopyComplete
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.exe
+C:\Users\jjsal\Downloads\este si\redesActualizado\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.pdb
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe.config
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.exe
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.pdb
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.pdb
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket\winServidorSocket\bin\Debug\Newtonsoft.Json.dll
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket\winServidorSocket\bin\Debug\Newtonsoft.Json.xml
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csprojResolveAssemblyReference.cache
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Form1.resources
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.Properties.Resources.resources
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.csproj.GenerateResource.Cache
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket - copia\winServidorSocket\bin\Debug\winServidorSocket.exe.config
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.exe
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.pdb
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket - copia\winServidorSocket\bin\Debug\winServidorSocket.exe
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket - copia\winServidorSocket\bin\Debug\winServidorSocket.pdb
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket - copia\winServidorSocket\bin\Debug\Newtonsoft.Json.dll
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket - copia\winServidorSocket\bin\Debug\Newtonsoft.Json.xml
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.csprojResolveAssemblyReference.cache
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.Form1.resources
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.Properties.Resources.resources
+F:\ing. de sistemas\Nueva carpeta\SEMANA 16\REAL REDES\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.csproj.GenerateResource.Cache
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\bin\Debug\winServidorSocket.exe.config
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\bin\Debug\winServidorSocket.exe
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\bin\Debug\winServidorSocket.pdb
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.csproj.AssemblyReference.cache
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.Form1.resources
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.Properties.Resources.resources
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.csproj.GenerateResource.cache
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.csproj.CoreCompileInputs.cache
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\obj\Debug\winServi.25E4289C.Up2Date
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.exe
+C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.pdb
