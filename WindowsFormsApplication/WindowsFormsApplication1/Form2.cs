@@ -81,5 +81,25 @@ namespace WindowsFormsApplication1
                 }
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            using (OpenFileDialog openFileDialog = new OpenFileDialog())
+            {
+                // Configuramos un filtro para archivos de texto o todos los archivos.
+                openFileDialog.Filter = "Todos los archivos (*.*)|*.*";
+                openFileDialog.Title = "Selecciona un archivo";
+
+                // Mostramos el diálogo y verificamos si el usuario hizo clic en Aceptar.
+                if (openFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    // Obtenemos la ruta del archivo seleccionado.
+                    string rutaArchivo = openFileDialog.FileName;
+
+                    // Aquí puedes realizar las acciones que necesites con el archivo.
+                    MessageBox.Show("Archivo seleccionado: " + rutaArchivo);
+                }
+            }
+        }
     }
 }
