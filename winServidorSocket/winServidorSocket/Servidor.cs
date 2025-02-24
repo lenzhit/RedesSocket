@@ -168,6 +168,7 @@ namespace winServidorSocket
             }
             string listaTexto = string.Join(",", nuevaListaconectados);
             byte[] datosEnviar = Encoding.UTF8.GetBytes(listaTexto);
+            
             return datosEnviar; 
         }
     }
