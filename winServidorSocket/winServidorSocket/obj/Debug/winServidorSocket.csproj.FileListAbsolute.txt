@@ -134,3 +134,6 @@ C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONE
 C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\obj\Debug\winServi.25E4289C.Up2Date
 C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.exe
 C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\winServidorSocket - copia\winServidorSocket\obj\Debug\winServidorSocket.pdb
+C:\Users\Usuario\Desktop\Redes\RedesSocket\winServidorSocket\winServidorSocket\bin\Debug\winServidorSocket.exe.config
+C:\Users\Usuario\Desktop\Redes\RedesSocket\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.exe
+C:\Users\Usuario\Desktop\Redes\RedesSocket\winServidorSocket\winServidorSocket\obj\Debug\winServidorSocket.pdb
