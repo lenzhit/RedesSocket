@@ -81,10 +81,8 @@ namespace WindowsFormsApplication1
             listBox1.DataSource = falsos;
             textBox1.Text = "";
             textBox2.Text = "";
-            textBox3.Text = "";
             textBox1.Enabled = true;
             textBox2.Enabled = true;
-            textBox3.Enabled = true;
             button1.Enabled = true;
             button2.Enabled = false;
             timer1.Enabled = false;
@@ -112,11 +110,9 @@ namespace WindowsFormsApplication1
             {
                 cliente = new Cliente(textBox2.Text);
                 cliente.usuario = textBox1.Text;
-                cliente.contra = textBox3.Text;
                 cliente.conectar();
                 textBox1.Enabled = false;
                 textBox2.Enabled = false;
-                textBox3.Enabled = false;
                 button1.Enabled = false;
                 button2.Enabled = true;
                 timer1.Enabled = true;
@@ -241,19 +237,7 @@ namespace WindowsFormsApplication1
             }
         }
 
-        private void timer2_Tick(object sender, EventArgs e)
-        {
-            if (conteo>0)
-            {
-                conteo = conteo - 1;
-                lblConteo.Text = conteo.ToString();
-            }
-            else
-            {
-                conteo = 2;
-                lblConteo.Text = conteo.ToString();
-            }
-        }
+        
 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -264,10 +248,8 @@ namespace WindowsFormsApplication1
             listBox1.DataSource = falsos;
             textBox1.Text = "";
             textBox2.Text = "";
-            textBox3.Text = "";
             textBox1.Enabled = true;
             textBox2.Enabled = true;
-            textBox3.Enabled = true;
             button1.Enabled = true;
             button2.Enabled = false;
             timer1.Enabled = false;

@@ -19,7 +19,6 @@ namespace WindowsFormsApplication1
         public bool conectado = false;
         byte[] arreglo;
         public string usuario;
-        public string contra;
         string identificador;
         public List<string> real;
         public List<string> falsa;

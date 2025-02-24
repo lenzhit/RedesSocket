@@ -21,8 +21,6 @@ namespace winServidorSocket
         public List<Socket> listaConeccions;
         public List<string> conectados=new List<string>();
         public IPEndPoint puntoLocal_Servidor;
-        private Casero casero;
-        private List<Casero> listaCaseros=new List<Casero>();
         public Thread escuchando;
         bool continuarEscuando = true;
         byte[] arreglo; 
