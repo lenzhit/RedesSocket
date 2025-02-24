@@ -144,3 +144,6 @@ C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONE
 C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
 C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Lenner\Documents\RECUPERAR\TRABAJOS UNT\CICLO-VII\REDES Y COMUNICACIONES I\ClienteServidor\Jano-01\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Usuario\Desktop\Redes\RedesSocket\WindowsFormsApplication\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Usuario\Desktop\Redes\RedesSocket\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Usuario\Desktop\Redes\RedesSocket\WindowsFormsApplication\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
