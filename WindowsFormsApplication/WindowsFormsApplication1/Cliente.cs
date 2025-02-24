@@ -94,7 +94,6 @@ namespace WindowsFormsApplication1
             }
             catch(Exception ex)
             {
-                MessageBox.Show("Problemas con el Servidor", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 server();
             }
         }
