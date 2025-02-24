@@ -43,7 +43,14 @@ namespace winServidorSocket
             listaConeccions = new List<Socket>();
             socketPadre = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             MessageBox.Show("Servidor Encendido","Éxito",MessageBoxButtons.OK,MessageBoxIcon.Information);
+
+            //servidor en local
             puntoLocal_Servidor = new IPEndPoint(Dns.GetHostEntry("localhost").AddressList[1], 13000);
+
+            //servidor remoto
+            //puntoLocal_Servidor = new IPEndPoint(Dns.GetHostEntry(Dns.GetHostName()).AddressList[4], 13000);
+            
+                
             MessageBox.Show(puntoLocal_Servidor.ToString());
             escuchando = new Thread(escuchaThread);
             escuchando.Start();
